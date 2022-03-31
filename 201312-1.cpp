@@ -2,7 +2,7 @@
 using namespace std;
 int n; 
 int s[10010];
-int main(){
+int main(){//test注释
 	cin>>n;
 	int maxNum=0;
 	int res=-1;
